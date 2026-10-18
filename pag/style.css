@@ -1,0 +1,194 @@
+body {
+  width: 80%;
+  margin: auto;
+  background-color: aliceblue;
+}
+.captal {
+  text-transform: capitalize;
+}
+
+.center {
+  text-align: center;
+}
+
+/* header */
+.header {
+  background-color: rgb(40, 40, 104);
+  padding: 10px;
+  color: white;
+  border-radius: 50px;
+}
+
+.header .cont {
+  padding: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-weight: 900;
+}
+.tag {
+  color: rgb(147, 147, 199);
+}
+.links-nav {
+  padding: 25px;
+}
+.links-nav .link {
+  padding: 10px 15px;
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 50px;
+}
+/* abouy */
+.about {
+  background-color: white;
+  padding-top: 30px;
+  padding-bottom: 100px;
+  padding-inline: 20px;
+  margin-top: 30px;
+  border-radius: 50px;
+}
+.me img {
+  width: 15%;
+  border-radius: 50%;
+  margin-right: 50px;
+  float: left;
+}
+.about .but {
+  border: none;
+  text-align: center;
+  background-color: rgb(40, 40, 104);
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
+  margin-top: 25px;
+  font-size: medium;
+}
+.span {
+  color: rgb(110, 110, 165);
+  font-weight: bold;
+  font-size: large;
+}
+.clear {
+  clear: both;
+}
+.flote {
+  float: left;
+}
+/* skills */
+.skills {
+  margin: auto;
+  padding: 20px;
+  background-color: white;
+  margin-top: 30px;
+  border-radius: 25px;
+}
+.lang {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  color: rgb(110, 110, 165);
+  font-weight: 700;
+}
+.skills-1 {
+  width: 25%;
+
+  box-sizing: border-box;
+  padding: 20px;
+  display: table;
+  border-radius: 30px;
+  border: 10px solid white;
+  background-color: rgba(0, 191, 255, 0.167);
+}
+
+.skills-2 {
+  width: 25%;
+  box-sizing: border-box;
+  padding: 20px;
+  display: table;
+
+  border-radius: 30px;
+  border: 10px solid white;
+  background-color: rgba(0, 191, 255, 0.167);
+}
+
+.skills-3 {
+  width: 25%;
+  box-sizing: border-box;
+  padding: 20px;
+  display: table;
+
+  border-radius: 30px;
+  border: 10px solid white;
+  background-color: rgba(0, 191, 255, 0.167);
+}
+
+.skills-4 {
+  width: 25%;
+  box-sizing: border-box;
+  padding: 20px;
+  display: table;
+
+  border-radius: 30px;
+  border: 10px solid white;
+  background-color: rgba(0, 191, 255, 0.167);
+}
+/* experience */
+.experience {
+  background-color: white;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 25px;
+}
+.par {
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 25px;
+  color: black;
+  border-left: 10px solid rgba(0, 191, 255, 0.167);
+  margin-top: 20px;
+}
+.foto {
+  width: 100px;
+  background-color: white;
+  border-radius: 25%;
+  margin: 10px;
+}
+.par img {
+  width: 50%;
+  padding: 25%;
+}
+
+.Contact-Me {
+  background-color: rgb(40, 40, 104);
+  padding: 50px;
+  color: rgb(255, 255, 255);
+  border-radius: 25px;
+  margin-top: 30px;
+  font-size: larger;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+.butten {
+  border: none;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.215);
+  text-decoration: none;
+  border: 0.00002px solid white;
+  border-radius: 25px;
+}
+.butten .link {
+  text-decoration: none;
+  color: white;
+  font-size: large;
+  background-color: rgba(40, 40, 104, 0);
+  padding: 20px;
+}
+/* footer */
+.foot {
+  padding-block: 20px;
+  padding-inline: 20px;
+  background-color: rgb(11, 11, 56);
+  margin-top: 20px;
+  color: white;
+  border-radius: 25px;
+}
